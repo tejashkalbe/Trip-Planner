@@ -1,0 +1,25 @@
+.form{
+  display: flex;
+  flex-direction: column;
+  /* border: 1px solid red; */
+}
+.form label{
+  padding-left: 9rem;
+}
+.form .center-input{
+  align-self: center;
+  border: 1px solid black;
+  /* border: 1px solid purple !important; */
+  margin: 0px !important;
+}
+.sub-btn{
+  align-self: center;
+  word-spacing: 6px !important;
+  letter-spacing: 4px;
+}
+.container{
+  border: 1px solid black;
+  margin-top: 30px;
+  height: 80vh;
+  padding-top: 30px;
+}
